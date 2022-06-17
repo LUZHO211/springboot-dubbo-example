@@ -16,7 +16,7 @@
         <zookeeper.version>3.5.6</zookeeper.version>
         <zkclient.client>0.1</zkclient.client>
         <dubbo.version>2.6.0</dubbo.version>
-        <fastjson.verion>1.2.60</fastjson.verion>
+        <fastjson.verion>1.2.83</fastjson.verion>
     </properties>
 
     <parent>
